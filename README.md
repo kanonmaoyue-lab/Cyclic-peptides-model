@@ -1,2 +1,3 @@
-# Cyclic-peptides-model
-Using cyclicpepedia database as data source
+# Minenote
+Enjoying noting in the environment of minecraft. Let study be easy and passionate.
+
